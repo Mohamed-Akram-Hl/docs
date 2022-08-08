@@ -7,7 +7,7 @@ Lesko can be used to solve some basic problems.
 ### Creating Lesko File
 Create a folder whereever you want and open it with Visual Studio Code
 
-![open with](assets/Screenshot 2022-08-08 145043.png)
+![open with](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-08%20145043.png?raw=true)
 
 Once Visual Studio Code is opened Click on `Yes, I trust The authors`
 
