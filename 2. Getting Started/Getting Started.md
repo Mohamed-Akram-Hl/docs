@@ -24,9 +24,13 @@ Lesko can be used to solve some basic problems.
 ecrire("Hello World")
 ```
 
-* Now, Save your code by clicking on File then Save or `ctrl+S`.
+* Save your code by clicking on File then Save or `ctrl+S`.
 
 ![save File](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-08%20153316.png?raw=true)
+
+* Click The run and thats it you excuted your first Lesko code :)
+
+![run](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/run.png?raw=true)
 
 [<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/1.%20Installation%20and%20Setup/Installation%20and%20Setup) |
 [Next ->]()
