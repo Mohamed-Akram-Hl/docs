@@ -23,7 +23,7 @@ Lesko can be used to solve some basic problems.
 ```
 ecrire("Hello World")
 ```
-
+> We use `ecrire()` to write strings in the console.
 * Save your code by clicking on File then Save or `ctrl+S`.
 
 ![save File](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-08%20153316.png?raw=true)
