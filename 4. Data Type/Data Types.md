@@ -28,7 +28,7 @@ ecrire(type(x))
 ### Setting the Data Type
 
 Example              | Data Type
----------------------| ---------
+---------------------| ---------------------
 var x = "Hello World"| chaine
 var x = 5            | entier
 var x = 5.0          | reel
