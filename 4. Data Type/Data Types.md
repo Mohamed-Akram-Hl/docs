@@ -29,4 +29,8 @@ ecrire(type(x))
 
 Example              | Data Type
 ---------------------| ---------
-var x = "Hello World"| entier
+var x = "Hello World"| chaine
+var x = 5            | entier
+var x = 5.0          | reel
+var x = vrai         | booleen
+var x = faux         | booleen
