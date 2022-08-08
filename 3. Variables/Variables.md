@@ -63,3 +63,40 @@ A variable can have a short name (like x and y) or a more descriptive name (age,
 
 * Variable names are case-sensitive (age, Age and AGE are three different variables)
 
+### Output Variables
+
+The Lesko ecrire() function is often used to output variables:
+
+* Example
+
+```
+var x = "bienvenue au Lesko"
+ecrire(x)
+```
+
+You can use the `+` operator to output multiple variables:
+
+* Example
+
+```
+var x = "bienvenue "
+var y = "au "
+var z = "Lesko"
+ecrire(x + y + z)
+```
+> In the ecrire() function, when you try to combine a string and a number with the + operator, Lesko will give you an error
+
+For numbers, the + character works as a mathematical operator:
+
+* Example
+
+```
+var x = 5
+var y = 10
+ecrire(x + y)
+```
+
+> Hit the `Next ->` button to learn more about lesko or Hit the `<- Previous` button to review the last document.
+
+[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/2.%20Getting%20Started/Getting%20Started.md) |
+[Next ->]()
