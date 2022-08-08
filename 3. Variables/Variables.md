@@ -54,3 +54,12 @@ var y = "John"
 ecrire(type(x))
 ecrire(type(y))
 ```
+
+### Variable Names
+
+A variable can have a short name (like x and y) or a more descriptive name (age, name). Rules for Lesko variables:
+
+* A variable name can only contain letters.
+
+* Variable names are case-sensitive (age, Age and AGE are three different variables)
+
