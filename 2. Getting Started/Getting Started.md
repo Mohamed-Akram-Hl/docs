@@ -18,10 +18,15 @@ Lesko can be used to solve some basic problems.
 ![create File](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-08%20152038.png?raw=true)
 
 ### Learning by Examples
-Just copy and paste this code into your editor.
+* Just copy and paste this code into your editor.
 > You can edit the `"Hello World"` message and remplace it by whatever message you want.
 ```
 ecrire("Hello World")
 ```
+
+* Now, Save your code by clicking on File then Save or `ctrl+S`.
+
+![save File](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-08%20153316.png?raw=true)
+
 [<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/1.%20Installation%20and%20Setup/Installation%20and%20Setup) |
 [Next ->]()
