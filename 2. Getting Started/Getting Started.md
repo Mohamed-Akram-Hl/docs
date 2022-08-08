@@ -10,5 +10,5 @@ Just copy and paste this code into your editor.
 ```
 ecrire("Hello World")
 ```
-[Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/1.%20Installation%20and%20Setup/Installation%20and%20Setup) |
-[Next]()
+[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/1.%20Installation%20and%20Setup/Installation%20and%20Setup) |
+[Next ->]()
