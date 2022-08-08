@@ -26,5 +26,6 @@ x = 4       // x is of type int
 x = "bonjour" // x is now of type str
 ecrire(x)
 ```
-> Comments can be used to explain Lesko code Just by typing `//` then write the comment you want
-> Comments can not be  executed when testing code
+> Comments can be used to explain Lesko code Just by typing `//` then write the comment you want.
+
+> Comments can not be  executed when testing code.
