@@ -1,6 +1,6 @@
 # Getting Started
 
-## Learn Lessko
+### Learn Lessko
 
 Lesko is a programming language designed to be as near as possible from the algorithmic language.
 
