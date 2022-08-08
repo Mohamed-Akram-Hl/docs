@@ -35,4 +35,4 @@ ecrire("Hello World")
 > Hit the `Next ->` button to learn more about lesko or Hit the `<- Previous` button to review the last document.
 
 [<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/1.%20Installation%20and%20Setup/Installation%20and%20Setup) |
-[Next ->]()
+[Next ->](https://github.com/Mohamed-Akram-Hl/docs/blob/main/3.%20Variables/Variables.md)
