@@ -28,7 +28,7 @@ ecrire("Hello World")
 
 ![save File](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-08%20153316.png?raw=true)
 
-* Click The run and that's it you excuted your first Lesko code :)
+* Click The run and that's it you excuted your first Lesko code : )
 
 ![run](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/run.png?raw=true)
 
