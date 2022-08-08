@@ -5,13 +5,15 @@ Lesko is a programming language designed to be as near as possible from the algo
 
 Lesko can be used to solve some basic problems.
 ### Creating Lesko File
-Create a folder whereever you want and open it with Visual Studio Code
+* Create a folder whereever you want and open it with Visual Studio Code
 
 ![open with](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-08%20145043.png?raw=true)
 
-Once Visual Studio Code is opened Click on `Yes, I trust The authors`
+* Once Visual Studio Code is opened Click on `Yes, I trust The authors`
 
 ![Trust](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-08%20150207.png?raw=true)
+
+* Then Create a new file by clicking on the button circled in this picture, name it then add `.lk` extension to it.
 
 ### Learning by Examples
 Just copy and paste this code into your editor.
