@@ -32,5 +32,6 @@ ecrire("Hello World")
 
 ![run](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/run.png?raw=true)
 
+> Hit the `Next` button to learn more about lesko.
 [<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/1.%20Installation%20and%20Setup/Installation%20and%20Setup) |
 [Next ->]()
