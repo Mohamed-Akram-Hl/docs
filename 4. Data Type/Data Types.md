@@ -24,7 +24,6 @@ You can get the data type of any object by using the `type()` function:
 var x = 5
 ecrire(type(x))
 ```
-
 ### Setting the Data Type
 
 Example              | Data Type
@@ -34,3 +33,15 @@ var x = 5            | entier
 var x = 5.0          | reel
 var x = vrai         | booleen
 var x = faux         | booleen
+
+### Setting the Specific Data Type
+
+Setting the Specific Data Type
+
+Example                      | Data Type
+-----------------------------| ---------
+var x = chaine("Hello World")| chaine
+var x = entier(5)            | entier
+var x = reel(5.0)            | reel
+var x = booleen(vrai)        | booleen
+var x = booleen(faux)        | booleen
