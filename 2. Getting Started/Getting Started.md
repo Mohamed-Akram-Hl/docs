@@ -19,7 +19,7 @@ Lesko can be used to solve some basic problems.
 
 ### Learning by Examples
 Just copy and paste this code into your editor.
-> You can edit Lesko code and view the result by clicking on the run button.
+> You can edit the `"Hello World"` message and remplace it by whatever message you want.
 ```
 ecrire("Hello World")
 ```
