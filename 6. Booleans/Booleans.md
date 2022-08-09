@@ -29,5 +29,5 @@ si b > a {
 sinon {
   print("b is not greater than a")}
 ```
-[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/4.%20Variables/Variables.md) |
+[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/5.%20Data%20Type/Data%20Types.md) |
 [Next ->]()
