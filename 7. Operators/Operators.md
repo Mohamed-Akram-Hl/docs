@@ -52,5 +52,5 @@ Logical operators are used to combine conditional statements:
 Operator      | Description                                             | Example         | Output
 --------------|---------------------------------------------------------|-----------------|-------
 `et` or `&&`  | Returns True if both statements are true                | 1 < 5 et 1 < 10 | True
-`ou` or `||`  | Returns True if one of the statements is true           | 6 < 5 ou 2 < 4	 | True
+`ou`          | Returns True if one of the statements is true           | 6 < 5 ou 2 < 4	 | True
 `non` or `!`  | Reverse the result, returns False if the result is true | non( 3 < 5 )    | False
