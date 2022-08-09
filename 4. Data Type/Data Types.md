@@ -46,6 +46,6 @@ var x = reel(5.0)            | reel
 var x = booleen(vrai)        | booleen
 var x = booleen(faux)        | booleen
 
-[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/4.%20Data%20Type/Data%20Types.md) |
+[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/3.%20Variables/Variables.md) |
 [Next ->]()
 
