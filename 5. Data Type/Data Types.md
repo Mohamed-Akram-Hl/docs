@@ -49,5 +49,5 @@ var x = booleen(faux)        | booleen
 > Hit the `Next ->` button to learn more about lesko or Hit the `<- Previous` button to review the last document.
 
 [<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/4.%20Variables/Variables.md) |
-[Next ->]()
+[Next ->](https://github.com/Mohamed-Akram-Hl/docs/blob/main/6.%20Booleans/Booleans.md)
 
