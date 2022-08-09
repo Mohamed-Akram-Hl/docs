@@ -30,13 +30,14 @@ ecrire(x)
 
 > Comments can not be  executed when testing code.
 
-You can also declare a variable with a particular type
+You can also declare a variable with a particular type:
+
+* Example
 
 ```
 var x : entier = 4 // x is of type int
 ecrire(x)
 ```
-* Example
 
 ### Casting
 
