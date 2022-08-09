@@ -13,9 +13,9 @@ When you compare two values, the expression is evaluated and Lesko returns the B
 * Example
 
 ```
-ecrire(10 > 9)
-ecrire(10 == 9)
-ecrire(10 < 9)
+ecrire(10 > 9)  // True
+ecrire(10 == 9) // False
+ecrire(10 < 9)  // False
 ```
 
 When you run a condition in an `si` statement, Lesko returns True or False:
@@ -25,9 +25,9 @@ var a = 200
 var b = 33
 
 si b > a {
-  print("b is greater than a")}
+  ecrire("b is greater than a")}
 sinon {
-  print("b is not greater than a")}
+  ecrire("b is not greater than a")}
 ```
 [<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/5.%20Data%20Type/Data%20Types.md) |
 [Next ->]()
