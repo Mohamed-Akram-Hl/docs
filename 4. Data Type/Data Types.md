@@ -46,6 +46,8 @@ var x = reel(5.0)            | reel
 var x = booleen(vrai)        | booleen
 var x = booleen(faux)        | booleen
 
+> Hit the `Next ->` button to learn more about lesko or Hit the `<- Previous` button to review the last document.
+
 [<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/3.%20Variables/Variables.md) |
 [Next ->]()
 
