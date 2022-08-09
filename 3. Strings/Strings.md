@@ -19,3 +19,5 @@ To get the length of a string, use the `long()` function.
 ```
 ecrire(long("bonjour"))
 ```
+[<- Previous]() |
+[Next ->]()
