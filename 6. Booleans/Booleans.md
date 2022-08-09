@@ -15,6 +15,7 @@ When you compare two values, the expression is evaluated and Lesko returns the B
 ```
 ecrire(10 > 9)       // True
 ecrire(vrai == faux) // False
+ecrire(vrai == vrai) // True
 ecrire(10 == 9)      // False
 ecrire(10 < 9)       // False
 ```
