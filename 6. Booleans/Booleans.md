@@ -13,9 +13,10 @@ When you compare two values, the expression is evaluated and Lesko returns the B
 * Example
 
 ```
-ecrire(10 > 9)  // True
-ecrire(10 == 9) // False
-ecrire(10 < 9)  // False
+ecrire(10 > 9)       // True
+ecrire(vrai == faux) // False
+ecrire(10 == 9)      // False
+ecrire(10 < 9)       // False
 ```
 
 When you run a condition in an `si` statement, Lesko returns True or False:
