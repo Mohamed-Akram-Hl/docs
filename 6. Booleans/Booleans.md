@@ -24,8 +24,8 @@ When you run a condition in an `si` statement, Lesko returns True or False:
 var a = 200
 var b = 33
 
-si b > a{
+si b > a {
   print("b is greater than a")}
-sinon{
+sinon {
   print("b is not greater than a")}
 ```
