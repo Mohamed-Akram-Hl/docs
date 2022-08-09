@@ -24,4 +24,4 @@ Arithmetic operators are used with numeric values to perform common mathematical
 
 Operator | Name     | Example | Output
 ---------|----------|---------|-------
-+        | Addition | 3 + 4   | 7
+ +       | Addition | 3 + 4   | 7
