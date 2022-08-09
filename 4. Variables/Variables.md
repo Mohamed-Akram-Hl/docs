@@ -107,5 +107,5 @@ ecrire(x + y)
 
 > Hit the `Next ->` button to learn more about lesko or Hit the `<- Previous` button to review the last document.
 
-[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/2.%20Getting%20Started/Getting%20Started.md) |
+[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/3.%20Strings/Strings.md) |
 [Next ->](https://github.com/Mohamed-Akram-Hl/docs/blob/main/4.%20Data%20Type/Data%20Types.md)
