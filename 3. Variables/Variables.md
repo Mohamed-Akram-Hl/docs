@@ -30,6 +30,14 @@ ecrire(x)
 
 > Comments can not be  executed when testing code.
 
+You can also declare a variable with a particular type
+
+```
+var x : entier = 4 // x is of type int
+ecrire(x)
+```
+* Example
+
 ### Casting
 
 If you want to specify the data type of a variable, this can be done with casting.
