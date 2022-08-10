@@ -50,18 +50,23 @@ Operator      | Name                     | Example  | Output
 
 Logical operators are used to combine conditional statements:
 
-Operator      | Description                                             | Example         | Output
---------------|---------------------------------------------------------|-----------------|-------
-`et` or `&&`  | Returns True if both statements are true                | 1 < 5 et 1 < 10 | True
-`ou` or [|]   | Returns True if one of the statements is true           | 6 < 5 ou 2 < 4	 | True
-`non` or `!`  | Reverse the result, returns False if the result is true | non( 3 < 5 )    | False
+Operator                   | Description                                             | Example         | Output
+---------------------------|---------------------------------------------------------|-----------------|-------
+`et` or `&&`               | Returns True if both statements are true                | 1 < 5 et 1 < 10 | True
+`ou` or `PipePipe symbole` | Returns True if one of the statements is true           | 6 < 5 ou 2 < 4	 | True
+`non` or `!`               | Reverse the result, returns False if the result is true | non( 3 < 5 )    | False
+
+> PipePipe symbole is `||` in keyboard. Just type `|` two times.
 
 * Bitwise Operators
+
 Bitwise operators are used to compare (binary) numbers:
 
-Operator      | Name | Description                                     | Example         | Output
---------------|------|-------------------------------------------|-----------------------|-------
-`~`           |      | Inverts all the bits                            | 1 < 5 et 1 < 10 | True
-              |      | Sets each bit to 1 if both bits are 1           | 6 < 5 ou 2 < 4	 | True
-`non` or `!`  |      | Sets each bit to 1 if one of two bits is 1      | non( 3 < 5 )    | False
-              |      | Sets each bit to 1 if only one of two bits is 1 |                 |
+Operator       | Name | Description                                     | Example              | Output
+---------------|------|-------------------------------------------------|----------------------|-------
+`~`            | NOT  | Inverts all the bits                            | ~12                  | -13
+`&`            | AND  | Sets each bit to 1 if both bits are 1           | 12 & 13	             | 12
+`Pipe symbole` | OR   | Sets each bit to 1 if one of two bits is 1      | 12 `Pipe symbole` 13 | 13
+`^`            | XOR  | Sets each bit to 1 if only one of two bits is 1 | 12 ^ 13              | 1
+
+> PiPe symbole is `|` in keyboard.
