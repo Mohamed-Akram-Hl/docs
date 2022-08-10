@@ -70,3 +70,6 @@ Operator       | Name | Description                                     | Exampl
 `^`            | XOR  | Sets each bit to 1 if only one of two bits is 1 | 12 ^ 13              | 1
 
 > PiPe symbole is `|` in keyboard.
+
+[<- Previous]|
+[Next ->]
