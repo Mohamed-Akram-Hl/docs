@@ -62,6 +62,6 @@ Bitwise operators are used to compare (binary) numbers:
 Operator      | Description                                     | Example         | Output
 --------------|-------------------------------------------------|-----------------|-------
 `~`           | Inverts all the bits                            | 1 < 5 et 1 < 10 | True
-`|`           | Sets each bit to 1 if both bits are 1           | 6 < 5 ou 2 < 4	 | True
+<p>|<p/>           | Sets each bit to 1 if both bits are 1           | 6 < 5 ou 2 < 4	 | True
 `non` or `!`  | Sets each bit to 1 if one of two bits is 1      | non( 3 < 5 )    | False
               | Sets each bit to 1 if only one of two bits is 1 |
