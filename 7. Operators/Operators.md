@@ -71,5 +71,5 @@ Operator       | Name | Description                                     | Exampl
 
 > PiPe symbole is `|` in keyboard.
 
-[<- Previous]|
-[Next ->]
+[<- Previous]() |
+[Next ->]()
