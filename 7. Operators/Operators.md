@@ -55,3 +55,13 @@ Operator      | Description                                             | Exampl
 `et` or `&&`  | Returns True if both statements are true                | 1 < 5 et 1 < 10 | True
 `ou`          | Returns True if one of the statements is true           | 6 < 5 ou 2 < 4	 | True
 `non` or `!`  | Reverse the result, returns False if the result is true | non( 3 < 5 )    | False
+
+* Bitwise Operators
+Bitwise operators are used to compare (binary) numbers:
+
+Operator      | Description                                     | Example         | Output
+--------------|-------------------------------------------------|-----------------|-------
+`~`           | Inverts all the bits                            | 1 < 5 et 1 < 10 | True
+`|`           | Sets each bit to 1 if both bits are 1           | 6 < 5 ou 2 < 4	 | True
+`non` or `!`  | Sets each bit to 1 if one of two bits is 1      | non( 3 < 5 )    | False
+              | Sets each bit to 1 if only one of two bits is 1 |
