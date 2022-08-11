@@ -76,3 +76,22 @@ Round a number:
 var x = arrondir(2.2424)
 ecrire(x)
 ```
+
+### type() Function
+
+The `type()` function returns the type of the specified object
+
+* Example
+
+Return the type of these objects:
+
+```
+var a = 2
+var b = 4.5
+var c = "bonjour"
+var d = vrai
+ecrire(a)
+ecrire(b)
+ecrire(c)
+ecrire(d)
+```
