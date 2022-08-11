@@ -1,12 +1,10 @@
-# Tantque Loop
-
-### Loops
+# Loops
 
 Loops can execute a block of code as long as a specified condition is reached.
 
 Loops are handy because they save time, reduce errors, and they make code more readable.
 
-### Lesko Tantque Loop
+## Lesko Tantque Loop
 
 The `tantque` loop loops through a block of code as long as a specified condition is True:
 
@@ -38,6 +36,24 @@ faire
 tantque i == 6
 // The output will be "hi"
 ```
+
+## Lesko Pour Loop
+
+When you know exactly how many times you want to loop through a block of code, use the `pour` loop instead of a `tantque` loop
+
+It start by a specified number, and increments by 1, and ends at a specified number using `jusqua` statement.
+
+* Example
+
+The example below will write the numbers 0 to 4:
+
+```
+pour i = 0 jusqua 4
+{
+  ecrire(i)
+}
+```
+
 
 [<- Previous]() |
 [Next ->]()
