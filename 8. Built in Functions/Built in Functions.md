@@ -16,7 +16,7 @@ ecrire("Hello World")
 
 ### lire() Function
 
-The lire() function allows user input.
+The `lire()` function allows user input.
 
 * Example
 
