@@ -55,3 +55,29 @@ sinon
 }
 // Outputs "Good evening."
 ```
+
+### The sinon si Statement
+
+Use the `sinon si` statement to specify a new condition if the first condition is False.
+
+* Example
+
+```
+var time = 22
+si time < 10 
+{
+  ecrire("Good morning.")
+} 
+sinon si time < 20 
+{
+  ecrire("Good day.")
+} 
+sinon 
+{
+  ecrire("Good evening.")
+}
+// Outputs "Good evening."
+```
+
+[<- Previous]() |
+[Next ->]()
