@@ -28,4 +28,51 @@ var x = lire()
 ecrire("bonjour, " + x)
 ```
 
-### alea( )
+### alea() Function
+
+The `alea()` function returns an integer number between 0 and a given integer.
+
+* Example
+
+Return a number between 0 and 10 (10 is not included):
+
+```
+ecrire(alea(10))
+```
+
+### absolu() Function
+
+The `absolu()` function returns the absolute value of the specified number.
+
+* Example 
+
+Return the absolute value of a number:
+
+```
+var x = absolu(-7.25)
+```
+
+### racine() Function
+
+The `racine()` function returns the square root of a complex number.
+
+* Example
+
+Find the square a number:
+
+```
+ecrire(racine(4))
+```
+
+### arrondir() Function
+
+The `arrondir()` function returns returns the nearest integer.
+
+* Example
+
+Round a number:
+
+```
+var x = arrondir(2.2424)
+ecrire(x)
+```
