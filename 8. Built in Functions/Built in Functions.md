@@ -95,3 +95,67 @@ ecrire(b)
 ecrire(c)
 ecrire(d)
 ```
+
+### long() Function
+
+The len() function returns the number of characters in the string
+
+* Example
+
+return the number of the character
+
+```
+var x = "bonjour"
+ecrire(x)
+```
+
+### entier() Function
+
+The `entier()` function converts the specified value into an integer number.
+
+* Example
+
+Convert the number 3.5 into an integer:
+
+```
+var x = entier(3.5)
+```
+
+### reel() Function
+
+The `reel()` function converts the specified value into an floating point number.
+
+* Example
+
+Convert the number 3 into a floating point number:
+
+```
+var x = reel(3)
+```
+
+### chaine() Function
+
+The `chaine()` function converts the specified value into a string.
+
+* Example
+
+Convert the number 3 into an string:
+
+```
+var x = chaine(3)
+```
+
+### booleen() Function
+
+The `booleen()` function converts "vrai" and "faux" to boolean.
+
+* Example
+
+Convert the number "vrai" to boolean:
+
+```
+var x = booleen("vrai")
+```
+
+[<- Previous]() |
+[Next ->]()
