@@ -28,4 +28,4 @@ var x = lire()
 ecrire("bonjour, " + x)
 ```
 
-### 
+### alea( )
