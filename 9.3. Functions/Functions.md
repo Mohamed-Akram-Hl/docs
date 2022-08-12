@@ -60,3 +60,16 @@ fonction salery(name : chaine, num : chaine)
 }
 salery("Mark", "1000")
 ```
+
+### Return Values
+
+To let a function return a value, use the `retourner` statement:
+
+```
+fonction Mul(x):
+  return 5 * x
+
+ecrire(Mul(10))
+ecrire(Mul(2))
+ecrire(Mul(3))
+```
