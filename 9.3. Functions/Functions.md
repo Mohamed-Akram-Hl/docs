@@ -54,9 +54,9 @@ name("Linus")
 By default, a function must be called with the correct number of arguments. Meaning that if your function expects 2 arguments, you have to call the function with 2 arguments, not more, and not less.
 
 ```
-fonction salery(name : chaine, num : entier)
+fonction salery(name : chaine, num : chaine)
 {
   ecrire("The salery of " + name + " is " + num + "$.")
 }
-salery(Mark, 1000)
+salery("Mark", "1000")
 ```
