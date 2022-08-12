@@ -60,7 +60,7 @@ pour i = 0 jusqua 10
 And for sure you can use `continuer` in `tantque` loops:
 
 ```
-var i = ;
+var i = 0
 tantque i < 10 
 {
   si i == 4
