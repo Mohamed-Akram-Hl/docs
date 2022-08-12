@@ -76,4 +76,4 @@ ecrire(Mul(2))
 ecrire(Mul(3))
 ```
 
-> When using `retourner` keyword, you must spicify the type of what you're returning.
+> When using retourner keyword, you must specify the type of what you're returning.
