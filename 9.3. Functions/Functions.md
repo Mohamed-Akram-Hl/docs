@@ -66,10 +66,14 @@ salery("Mark", "1000")
 To let a function return a value, use the `retourner` statement:
 
 ```
-fonction Mul(x):
-  return 5 * x
+fonction Mul(x:entier):entier
+{
+   retourner 5 * x
+}
 
 ecrire(Mul(10))
 ecrire(Mul(2))
 ecrire(Mul(3))
 ```
+
+> When using `retourner` keyword, you must spicify the type of what you're returning.
