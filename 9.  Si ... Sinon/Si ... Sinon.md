@@ -5,7 +5,7 @@
 Lesko supports the usual logical conditions from mathematics:
 
 Less than: `a < b`
-
+ 
 Less than or equal to: `a <= b`
 
 Greater than: `a > b`
