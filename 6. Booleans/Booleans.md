@@ -29,7 +29,7 @@ var b = 33
 si b > a {
   ecrire("b is greater than a")}
 sinon {
-  ecrire("b is not greater than a")}
+  ecrire("b is less than a")}
 ```
 [<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/5.%20Data%20Type/Data%20Types.md) |
 [Next ->]()
