@@ -13,7 +13,7 @@ Lesko can be used to solve some basic problems.
 
 ![Trust](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-08%20150207.png?raw=true)
 
-* Then Create a new file by clicking on the button circled in this picture, name it and add `.lk` to it.
+* Then Create a new file by clicking on the button circled in this picture, name the file and add `.lk` to it.
 
 ![create File](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-08%20152038.png?raw=true)
 
