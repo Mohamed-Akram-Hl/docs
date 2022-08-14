@@ -55,5 +55,5 @@ pour i = 0 jusqua 4
 ```
 
 
-[<- Previous]() |
+[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/9.%20%20Si%20...%20Sinon/Si%20...%20Sinon.md) |
 [Next ->]()
