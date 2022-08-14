@@ -49,3 +49,7 @@ Open Visual Studio Code and go to the extensions market place.
 Search for Lesko then install it and your good to go : )
 
 ![lesko extension](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-14%20184033.png?raw=true)
+
+> To learn how to create a lesko file and run your first code just hit the next button.
+
+[Next ->](https://github.com/Mohamed-Akram-Hl/docs/blob/main/3.%20Strings/Strings.md)
