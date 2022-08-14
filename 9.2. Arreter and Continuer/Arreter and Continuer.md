@@ -73,5 +73,5 @@ tantque i < 10
 }
 ```
 
-[<- Previous]() |
+[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/9.1.%20Loops/loops.md) |
 [Next ->]()
