@@ -71,5 +71,5 @@ Operator       | Name | Description                                     | Exampl
 
 > PiPe symbole is `|` in keyboard.
 
-[<- Previous]() |
+[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/6.%20Booleans/Booleans.md) |
 [Next ->]()
