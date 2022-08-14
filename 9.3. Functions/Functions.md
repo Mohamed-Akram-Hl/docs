@@ -78,5 +78,4 @@ ecrire(Mul(3))
 
 > When using retourner keyword, you must specify the type of what you're returning.
 
-[<- Previous]() |
-[Next ->]()
+[<- Previous]()
