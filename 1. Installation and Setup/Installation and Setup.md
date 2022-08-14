@@ -48,6 +48,8 @@ Open Visual Studio Code and go to the extensions market place.
 
 Search for Lesko then install it and your good to go : )
 
+> If you have `code runner` extension installed disable it. It will cause some issues
+
 ![lesko extension](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-14%20184033.png?raw=true)
 
 > To learn how to create a lesko file and run your first code just hit the next button.
