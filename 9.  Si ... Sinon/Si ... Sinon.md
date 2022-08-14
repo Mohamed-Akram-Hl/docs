@@ -79,5 +79,5 @@ sinon
 // Outputs "Good evening."
 ```
 
-[<- Previous]() |
+[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/8.%20Built%20in%20Functions/Built%20in%20Functions.md) |
 [Next ->]()
