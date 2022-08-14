@@ -36,3 +36,4 @@ Then open The `publish` folder and open the file `setup.exe` and install it.
 Go to Visual Studio Code [website][url] and download it.
 
 [url]: https://code.visualstudio.com/Download
+![VS](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-14%20182650.png?raw=true)
