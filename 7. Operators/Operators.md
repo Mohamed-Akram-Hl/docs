@@ -72,4 +72,4 @@ Operator       | Name | Description                                     | Exampl
 > PiPe symbole is `|` in keyboard.
 
 [<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/6.%20Booleans/Booleans.md) |
-[Next ->]()
+[Next ->](https://github.com/Mohamed-Akram-Hl/docs/blob/main/8.%20Built%20in%20Functions/Built%20in%20Functions.md)
