@@ -37,3 +37,11 @@ Go to Visual Studio Code [website][url] and download it.
 
 [url]: https://code.visualstudio.com/Download
 ![VS](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-14%20182650.png?raw=true)
+
+Once Visual Studio Code installation file is downloaded, Open it and just keep clicking next and be sure to check all of this options.
+
+![option](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-14%20183817.png?raw=true)
+
+Open Visual Studio Code and go to the extensions market place.
+
+![extension](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-14%20183931.png?raw=true)
