@@ -1,6 +1,13 @@
 # Installation and Setup
 
 ### Learn Lesko
+
 Lesko is a programming language designed to be as near as possible to the algorithmic language.
 
 Lesko can be used to solve some basic problems.
+
+### Installing Lesko
+
+Click on this link and download `Lesko.zip` file.
+
+![drive](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-14%20181914.png?raw=true)
