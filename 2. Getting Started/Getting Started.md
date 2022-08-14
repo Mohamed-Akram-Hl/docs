@@ -1,9 +1,6 @@
 # Getting Started
 
-### Learn Lesko
-Lesko is a programming language designed to be as near as possible to the algorithmic language.
 
-Lesko can be used to solve some basic problems.
 ### Creating Lesko File
 * Create a folder whereever you want and open it with Visual Studio Code
 
