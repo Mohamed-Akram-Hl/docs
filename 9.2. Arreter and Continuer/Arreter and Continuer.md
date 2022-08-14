@@ -74,4 +74,4 @@ tantque i < 10
 ```
 
 [<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/9.1.%20Loops/loops.md) |
-[Next ->]()
+[Next ->](https://github.com/Mohamed-Akram-Hl/docs/blob/main/9.3.%20Functions/Functions.md)
