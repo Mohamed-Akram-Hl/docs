@@ -47,3 +47,5 @@ Open Visual Studio Code and go to the extensions market place.
 ![extension](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-14%20183931.png?raw=true)
 
 Search for Lesko then install it and your good to go : )
+
+![lesko extension](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-14%20184033.png?raw=true)
