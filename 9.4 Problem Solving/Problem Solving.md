@@ -4,7 +4,22 @@ Here are some solved Problem using Lesko.
 
 ### Reverse The Number
 
+* Solution
 
+```
+// Debut
+ecrire("Please Enter any Number:")
+var number = entier(lire())
+var reverse = 0
+tantque number > 0{
+    var reminder = number mod 10
+    reverse = (reverse * 10) + reminder
+    number = number div 10
+}
+ecrire("The reversed number is:")
+ecrire(reverse)
+// Fin
+```
 
 ### Second Degree Equations
 
