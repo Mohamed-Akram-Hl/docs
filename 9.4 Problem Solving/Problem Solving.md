@@ -2,7 +2,7 @@
 
 Here are some solved Problem using Lesko.
 
-### Reverse The number
+### Reverse The Number
 
 
 
