@@ -2,6 +2,10 @@
 
 Here are some solved Problem using Lesko.
 
+### Reverse The number
+
+
+
 ### Second Degree Equations
 
 make a program which can solve The second degree equations.
