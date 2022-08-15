@@ -10,7 +10,7 @@ Lesko can be used to solve some basic problems.
 
 Click on this [link][drive] and download `Lesko.zip` file.
 
-[drive]: https://drive.google.com/file/d/1OC10T3srHWZZYG1x2xoXpewzV2z5J8Ti/view?usp=sharing
+[drive]: https://drive.google.com/file/d/1NV453ciOhddzLx2OfNCkGbBtFv-Z_WE-/view?usp=sharing
 ![drive](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-14%20181914.png?raw=true)
 
 Once that file is downloded, extract it.
