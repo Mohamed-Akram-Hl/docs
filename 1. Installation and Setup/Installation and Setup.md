@@ -9,8 +9,10 @@ Lesko can be used to solve some basic problems.
 ### Installing Lesko
 
 Click on this [link][drive] and download `Lesko.zip` file.
+Or click here[drive1] to download the newer version.
 
 [drive]: https://drive.google.com/file/d/1F-jw1iJ3ZV8DEfB3QQVPYTC6bfPaZQHN/view?usp=sharing
+[drive1]: https://drive.google.com/file/d/1pPfKJwh9Ln25t0-Q8vZx0Wt2uyLGQGej/view?usp=share_link
 ![drive](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-14%20181914.png?raw=true)
 
 Once that file is downloded, extract it.
