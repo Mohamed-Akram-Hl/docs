@@ -58,5 +58,5 @@ Search for Lesko then install it and your good to go : )
 ![lesko extension](https://github.com/Mohamed-Akram-Hl/docs/blob/main/assets/Screenshot%202022-08-14%20184033.png?raw=true)
 
 
-[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/1.%20Installation%20and%20Setup/Installation%20and%20Setup.md) |
+[<- Previous](https://github.com/Mohamed-Akram-Hl/docs/blob/main/0.%20Intro/English%20Introduction.md) |
 [Next ->](https://github.com/Mohamed-Akram-Hl/docs/blob/main/2.%20Getting%20Started/Getting%20Started.md)
