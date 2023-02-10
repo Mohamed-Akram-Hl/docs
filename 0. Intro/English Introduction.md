@@ -45,3 +45,49 @@ a + b = 30
 ```
 
 ![sum](https://raw.githubusercontent.com/Mohamed-Akram-Hl/docs/main/assets/Screenshot%202023-02-10%20195930.png)
+
+Or we can go even further to calculate the solutions of a quadratic equation:
+
+```
+ecrire("spécifier a:")
+var a = reel(lire())
+ecrire("spécifier b:")
+var b = reel(lire())
+ecrire("spécifier c:")
+var c = reel(lire())
+var delta = b ** 2 - 4 * a * c
+si a == 0 {
+    ecrire("Cette equation n'est pas de second dégré.")
+}
+sinon si delta > 0 {
+    var x = (-b - racine(delta)) / (2 * a)
+    var y = (-b + racine(delta)) / (2 * a)
+    ecrire("Les solutions sont:")
+    ecrire(x)
+    ecrire(y)
+}
+sinon si delta == 0 {
+    var x = -b / (2 * a)
+    ecrire("La solution est:")
+    ecrire(x)
+}
+sinon {
+    ecrire("L'equation n'a pas de solutions.")
+}
+```
+
+* The result will be:
+
+```
+spécifier a:
+1
+spécifier b:
+-3
+spécifier c:
+2
+Les solutions sont:
+1
+2
+```
+
+![quad](https://raw.githubusercontent.com/Mohamed-Akram-Hl/docs/main/assets/Screenshot%202023-02-10%20200951.png)
