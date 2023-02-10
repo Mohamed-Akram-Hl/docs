@@ -15,7 +15,7 @@ A compiled programming language is a type of programming language where the sour
 
 For example, when you write code in C, C++ or Fortran, it needs to be compiled into machine code before it can be executed. The compiler reads the code, checks for errors and translates it into a form that the computer can understand. This compiled code is then saved as a separate executable file, which can be run independently.
 
-But in this case, I used C# to build the compiler so the source code will be translated to native C# code if there is no error then it will be excuted.
+But in this case, I used C# to build the compiler so the source code will be translated to native C# code if there is no error then it will be executed.
 
 ### The Purpose of Lesko
 
