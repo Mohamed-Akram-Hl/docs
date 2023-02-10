@@ -22,7 +22,7 @@ But in this case, I used C# to build the compiler so the source code will be tra
 Since we study algorthims at school and there is no way that the computer can understand it. I made this language to be as near as possible to the algorithmic language with a visual studio code extension, so, we can write it directly into visual studio code and excute the code there without the need to rewrite the algorthim in python.
 
 
-We can solve some basic problems like simply calculating the sum of two given numbers
+We can solve some basic problems like simply calculating the sum of two given numbers:
 
 
 ```
@@ -34,7 +34,7 @@ var c = a + b
 ecrire("a + b = " + chaine(c))
 ```
 
-*The result will be:
+* The result will be:
 
 ```
 entrer a: 
