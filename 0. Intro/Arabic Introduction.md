@@ -50,7 +50,7 @@ a + b = 30
 ![sum](https://raw.githubusercontent.com/Mohamed-Akram-Hl/docs/main/assets/Screenshot%202023-02-10%20195930.png)
 
 
-أو يمكننا الذهاب أبعد قليلا لحل المعدلات من الدرجة الثانية
+أو يمكننا الذهاب أبعد قليلا لحل المعادلات من الدرجة الثانية
 
 ```
 ecrire("spécifier a:")
