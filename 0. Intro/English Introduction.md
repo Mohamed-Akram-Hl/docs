@@ -34,7 +34,7 @@ var c = a + b
 ecrire("a + b = " + chaine(c))
 ```
 
-The result will be:
+*The result will be:
 
 ```
 entrer a: 
