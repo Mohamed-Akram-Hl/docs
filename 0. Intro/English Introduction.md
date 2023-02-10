@@ -19,7 +19,7 @@ In this instance, I utilized C# to develop the compiler. The source code will be
 
 ### The Purpose of Lesko
 
-At school, we learn algorithms, but there is no way that computers can understand it. To address this issue, I created a new language that closely resembles algorithmic language and developed a Visual Studio Code extension. This allows us to write and execute code directly within Visual Studio Code without the need to translate the algorithms into Python
+At high school, we learn algorithms, but there is no way that computers can understand it. To address this issue, I created a new language that closely resembles algorithmic language and developed a Visual Studio Code extension. This allows us to write and execute code directly within Visual Studio Code without the need to translate the algorithms into Python
 
 
 We can solve some basic problems like simply calculating the sum of two given numbers:
