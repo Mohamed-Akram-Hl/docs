@@ -24,8 +24,10 @@ In this instance, I utilized C# to develop the compiler. The source code will be
 
 At high school, we learn algorithms, but there is no way to run it on computers. To address this issue, I created a new language that closely resembles algorithmic language and developed a Visual Studio Code extension. This allows us to write and execute code directly within Visual Studio Code without the need to translate the algorithms into Python
 
+It can also help beginners to learn the basics of programming.
 
-We can solve some basic problems like simply calculating the sum of two given numbers:
+
+We can solve some simple problems like calculating the sum of two given numbers:
 
 
 ```
