@@ -11,7 +11,7 @@
 ### What's Lesko?
 
 
-Lesko is a compiled programming language designed to be as near as possible to the algorithmic language.
+Lesko is a compiled programming language designed to be similar to the algorithmic language.
 
 A compiled programming language is a type of programming language where the source code is translated into machine code (binary code) before being executed by the computer. In other words, the code is compiled into a form that the computer can understand and execute directly.
 
