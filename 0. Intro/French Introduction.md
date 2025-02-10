@@ -48,7 +48,7 @@ a + b = 30
 
 ![sum](https://raw.githubusercontent.com/Mohamed-Akram-Hl/docs/main/assets/Screenshot%202023-02-10%20195930.png)  
 
-Ou nous pouvons aller plus loin pour calculer les solutions d’une équation quadratique :  
+Ou nous pouvons aller plus loin pour calculer les solutions d’une équation du second degré :  
 
 ```
 ecrire("spécifier a :")  
