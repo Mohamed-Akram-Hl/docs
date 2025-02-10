@@ -1,7 +1,8 @@
 # Welcome to Lesko
 
 
-[Arabic](https://github.com/Mohamed-Akram-Hl/docs/blob/main/0.%20Intro/Arabic%20Introduction.md)
+[Arabic](https://github.com/Mohamed-Akram-Hl/docs/blob/main/0.%20Intro/Arabic%20Introduction.md) |
+[French](https://github.com/Mohamed-Akram-Hl/docs/blob/main/0.%20Intro/French%20Introduction.md)
 
 
 <h1 align="center">
